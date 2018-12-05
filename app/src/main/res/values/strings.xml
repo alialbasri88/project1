@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="pizza_time">Pizza Time</string>
+    <string name="choose_your_pizza">Choose your Pizza</string>
+    <string name="choose_extras">Choose Extras</string>
+    <string name="olives">Olives</string>
+    <string name="apple">Apple</string>
+    <string name="chines">Chines</string>
+    <string name="sausage">Sausage</string>
+    <string name="fries">Fries</string>
+    <string name="garlic">Garlic</string>
+    <string name="pepsi">Pepsi</string>
+    <string name="enter_tip_here_e_g_5">Enter Tip Here (e.g 5)</string>
+    <string name="order_now">Calculate Price</string>
+    <string name="pizza_type_validation">You Should Choose one Pizza Type</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="point_to_a">+Point to A</string>
+    <string name="point_to_b">+Point to B</string>
+    <string name="reset">Reset</string>
+</resources>
