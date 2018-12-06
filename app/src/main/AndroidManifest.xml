@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.alialbasri.moch.myapplication002">
 
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,11 +14,12 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
         <activity android:name=".Main2Activity_radioButton" />
-        <activity android:name=".Main2Activity_pizza"></activity>
-        <activity android:name=".PingPongGameActivity">
+        <activity android:name=".Main2Activity_pizza" />
+        <activity android:name=".PingPongGameActivity"></activity>
+        <activity android:name=".RecyclerViewActivity">
 
         </activity>
-        <activity android:name=".RecyclerViewActivity">
+        <activity android:name=".NetworkingRetrofitActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
